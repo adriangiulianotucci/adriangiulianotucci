@@ -1,7 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=VT323&display=swap');
-</style>
-
 <div style="background-color: black">
 
 <h1 style="text-align: center; font-family: IBM Plex Mono; color: white">Hello 👋, I'm Adrian</h1>
